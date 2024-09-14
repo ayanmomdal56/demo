@@ -1,4 +1,4 @@
-https://ayanmomdal56.github.io/demo/
+ https://ayanmomdal56.github.io/web-bubble-game/
 
 
 So ,basically this is bubble game .
